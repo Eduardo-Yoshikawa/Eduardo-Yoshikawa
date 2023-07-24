@@ -1,5 +1,4 @@
-### Hi!
-My name is Eduardo Yoshikawa.
+### Hi! My name is Eduardo Yoshikawa.
 
 I am the author of this content and, at the moment, I am studing to be full stack developer.
 
@@ -23,7 +22,4 @@ Currently, my interest is to make a career transition to the information technol
    <img align="center" alt="eduardo-html" height="50" widht="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
    
    <img align="center" alt="eduardo-html" height="50" widht="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-   
-   
-  
 </div>
